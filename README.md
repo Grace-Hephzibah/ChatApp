@@ -1,2 +1,2 @@
 # ChatApp
-LHD Day 6 - Create a Social Media Clone
+This is a chat app
